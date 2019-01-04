@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35558" started-at="2019-01-04T10:10:36Z" finished-at="2019-01-04T10:11:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35558" started-at="2019-01-04T10:10:36Z" finished-at="2019-01-04T10:11:12Z">
+      <class name="com.test.BasicFlow">
+        <test-method status="PASS" signature="browserinvoke()[pri:0, instance:com.test.BasicFlow@523884b2]" name="browserinvoke" is-config="true" duration-ms="8179" started-at="2019-01-04T15:40:36Z" finished-at="2019-01-04T15:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinvoke -->
+        <test-method status="PASS" signature="Amazonloaunch()[pri:0, instance:com.test.BasicFlow@523884b2]" name="Amazonloaunch" duration-ms="4614" started-at="2019-01-04T15:40:45Z" finished-at="2019-01-04T15:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazonloaunch -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.test.BasicFlow@523884b2]" name="closebrowser" is-config="true" duration-ms="294" started-at="2019-01-04T15:40:49Z" finished-at="2019-01-04T15:40:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="browserinvoke()[pri:0, instance:com.test.BasicFlow@523884b2]" name="browserinvoke" is-config="true" duration-ms="5143" started-at="2019-01-04T15:40:49Z" finished-at="2019-01-04T15:40:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinvoke -->
+        <test-method status="PASS" signature="flipkart()[pri:0, instance:com.test.BasicFlow@523884b2]" name="flipkart" duration-ms="6419" started-at="2019-01-04T15:40:55Z" finished-at="2019-01-04T15:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkart -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.test.BasicFlow@523884b2]" name="closebrowser" is-config="true" duration-ms="799" started-at="2019-01-04T15:41:01Z" finished-at="2019-01-04T15:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method status="PASS" signature="browserinvoke()[pri:0, instance:com.test.BasicFlow@523884b2]" name="browserinvoke" is-config="true" duration-ms="5184" started-at="2019-01-04T15:41:02Z" finished-at="2019-01-04T15:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinvoke -->
+        <test-method status="PASS" signature="myntra()[pri:0, instance:com.test.BasicFlow@523884b2]" name="myntra" duration-ms="4724" started-at="2019-01-04T15:41:07Z" finished-at="2019-01-04T15:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntra -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.test.BasicFlow@523884b2]" name="closebrowser" is-config="true" duration-ms="151" started-at="2019-01-04T15:41:12Z" finished-at="2019-01-04T15:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.test.BasicFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
